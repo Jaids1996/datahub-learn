@@ -45,7 +45,7 @@ In `pages/api/secret/getter.ts`, complete the code of the default function. You 
 * [**`queryContractSmart()`**](https://github.com/enigmampc/SecretNetwork/blob/7adccb9a09579a564fc90173cc9509d88c46d114/cosmwasm-js/packages/sdk/src/cosmwasmclient.ts#L400)  
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.

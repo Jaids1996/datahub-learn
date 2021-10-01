@@ -43,7 +43,7 @@ What is [gas price and gwei](https://gwei.io/)? And how to [get it from ethers](
 [Formatting units](https://docs.ethers.io/v5/api/utils/display-logic/#utils-formatUnits) from BigNumber to gwei.
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.

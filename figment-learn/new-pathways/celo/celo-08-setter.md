@@ -41,7 +41,7 @@ In `pages/api/celo/setter.ts`, implement the default function. You must replace 
 * [**Web3.js eth contract interface**](https://web3js.readthedocs.io/en/v1.4.0/web3-eth-contract.html)  
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.
@@ -100,4 +100,4 @@ Congratulations! You've completed the Celo Pathway. In this series of tutorials,
 
 We have only covered a very small portion of smart contract development, however there are many existing Solidity resources. We invite you to keep experimenting on your own, and we will be providing more advanced Celo tutorials shortly to help you bring your knowledge and skills to the next level.
 
-If you had any difficulties following this tutorial or simply want to discuss Celo with other developers you can join [our Discord](https://discord.gg/fszyM7K) or head over to our [community forums](https://community.figment.io).
+If you had any difficulties following this tutorial or simply want to discuss Celo with other developers you can join [our Discord](https://figment.io/devchat) or head over to our [community forums](https://community.figment.io).

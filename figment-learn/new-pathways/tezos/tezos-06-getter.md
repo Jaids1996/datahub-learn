@@ -42,7 +42,7 @@ In `pages/api/tezos/getter.ts`, implement the function and try to read the value
 * [**Interface ContractProvider method `getStorage`**](https://tezostaquito.io/typedoc/interfaces/_taquito_taquito.contractprovider.html#getstorage)  
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.

@@ -29,7 +29,7 @@ In `pages/api/solana/setter.ts`, complete `setter`. First you'll have to create 
 * [Read about sendAndConfirmTransaction](https://solana-labs.github.io/solana-web3.js/modules.html#sendAndConfirmTransaction)  
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.
@@ -86,4 +86,4 @@ Congratulations on completing the Solana Pathway! We hope you had a fun time and
 * [Look at the Solana's Token Swap program](https://github.com/solana-labs/solana-program-library/tree/master/token-swap)
 
 
-If you had any difficulties following this tutorial or simply want to discuss Solana with other developers you can join [our Discord](https://discord.gg/fszyM7K) or head over to our [community forums](https://community.figment.io).
+If you had any difficulties following this tutorial or simply want to discuss Solana with other developers you can join [our Discord](https://figment.io/devchat) or head over to our [community forums](https://community.figment.io).

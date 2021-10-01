@@ -35,7 +35,7 @@ In`pages/api/near/setter.ts`, implement the default function. You must replace a
 * [Learn about `functionCall`](https://near.github.io/near-api-js/classes/account.account-1.html#functioncall)  
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.
@@ -91,4 +91,4 @@ Congratulations! You have successfully created, deployed, and interacted with a 
 
 While we have only covered a very small area of contract development, you are more than welcome to continue exploration and experiments on your own! Feel free to check out the [**NEAR Developer site**](https://examples.near.org/) for more examples and tutorials.
 
-If you had any difficulties following this tutorial or simply want to discuss NEAR with other developers you can join [our Discord](https://discord.gg/fszyM7K) or head over to our [community forums](https://community.figment.io).
+If you had any difficulties following this tutorial or simply want to discuss NEAR with other developers you can join [our Discord](https://figment.io/devchat) or head over to our [community forums](https://community.figment.io).

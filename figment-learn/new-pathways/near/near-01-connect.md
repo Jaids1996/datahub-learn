@@ -34,7 +34,7 @@ try {
 * [Status method of `Provider` class](https://near.github.io/near-api-js/classes/providers_json_rpc_provider.jsonrpcprovider.html#status)
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.

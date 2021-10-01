@@ -34,7 +34,7 @@ Need some help? Check out these two tips/links
 * [**Properties of a Wallet**](https://docs.ethers.io/v5/api/signer/#Wallet--properties) 
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.
@@ -92,4 +92,4 @@ From here, there are many ways to increase your skills with Web 3 development. W
 
 If you are an experienced developer, you are welcome to contribute tutorials for **Polygon** and earn some **MATIC** tokens! Check out our tutorial [contribution guidelines](../../../other/tutorial-guidelines/) to get started.
 
-If you had any difficulties following this tutorial or simply want to discuss Polygon with other developers you can join [our Discord](https://discord.gg/fszyM7K) or head over to our [community forums](https://community.figment.io).
+If you had any difficulties following this tutorial or simply want to discuss Polygon with other developers you can join [our Discord](https://figment.io/devchat) or head over to our [community forums](https://community.figment.io).

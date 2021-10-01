@@ -49,7 +49,7 @@ In`pages/api/near/transfer.ts`, implement the function. You must replace any ins
 * [Check out the `sendMoney()` method](https://near.github.io/near-api-js/classes/account.account-1.html#sendmoney)
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.

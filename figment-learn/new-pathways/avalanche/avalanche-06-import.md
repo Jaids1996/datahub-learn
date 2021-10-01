@@ -62,7 +62,7 @@ In `pages/api/avalanche/import.ts`, implement the function and try to import the
 - [**Manage X-Chain Keys**](https://docs.avax.network/build/tools/avalanchejs/manage-x-chain-keys)
 
 {% hint style="info" %}
-You can [**join us on Discord**](https://discord.gg/fszyM7K), if you have questions or want help completing the tutorial.
+You can [**join us on Discord**](https://figment.io/devchat), if you have questions or want help completing the tutorial.
 {% endhint %}
 
 Still not sure how to do this? No problem! The solution is below so you don't get stuck.
@@ -144,4 +144,4 @@ The Avalanche team has put together a [good list of examples](https://github.com
 
 Ready for more? No problem! While the basic Pathway is complete at this point, you are more than welcome to explore other [Avalanche tutorials](https://learn.figment.io/protocols/avalanche).
 
-If you had any difficulties following this tutorial or simply want to discuss Avalanche with other developers you can join [our Discord](https://discord.gg/fszyM7K) or head over to our [community forums](https://community.figment.io).
+If you had any difficulties following this tutorial or simply want to discuss Avalanche with other developers you can join [our Discord](https://figment.io/devchat) or head over to our [community forums](https://community.figment.io).
