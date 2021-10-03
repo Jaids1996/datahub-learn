@@ -98,7 +98,7 @@ Once you have the code above saved:
 * Fill in the amount of **SCRT** you want to send to your favorite pizza maker (and as you realize, it was yourself).
 * Click on **Submit Transfer**.
 
-![](../../../.gitbook/assets/pathways/secret/secret-transfer.gif)
+![](../assets/secret/secret-transfer.gif)
 
 ----------------------------------
 

@@ -100,7 +100,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code above has been saved, enter an amount to transfer and click **Transfer**:
 
-![](../../../.gitbook/assets/pathways/polygon/polygon-transfer.gif)
+![](../assets/polygon/polygon-transfer.gif)
 
 -------------------------------------
 

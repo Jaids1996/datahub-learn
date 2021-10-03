@@ -61,7 +61,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code is complete and the file has been saved, refresh the page to see it update & display the Chain ID.
 
-![](../../../.gitbook/assets/pathways/tezos/tezos-connect.gif)
+![](../assets/tezos/tezos-connect.gif)
 
 -----------------------------
 

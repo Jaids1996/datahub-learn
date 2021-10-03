@@ -54,7 +54,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code is complete and the file is saved, Next.js will rebuild the API route. Now click on **Generate a Keypair** and you should see:
 
-![](../../../.gitbook/assets/pathways/solana/solana-keypair.gif)
+![](../assets/solana/solana-keypair.gif)
 
 **Click on "Generate a Keypair" again. And again. And again!** Each time it will generate a new one with virtually no risk that someone else creates the same one as you. That's because the domain of possible addresses is so vast that the probability of two identical addresses being generated is ridiculously small.
 

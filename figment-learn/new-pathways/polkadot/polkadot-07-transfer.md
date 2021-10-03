@@ -79,7 +79,7 @@ Once the code is complete and the file is saved, Next.js will rebuild the API ro
 * Fill in the amount of **Planck** you want to send.
 * Click on **Submit Transfer**.
 
-![](../../../.gitbook/assets/pathways/polkadot/polkadot-transfer.gif)
+![](../assets/polkadot/polkadot-transfer.gif)
 
 -----------------------------
 

@@ -85,7 +85,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code is complete and the file has been saved, click on **Estimate Fees**.
 
-![](../../../.gitbook/assets/pathways/polkadot/polkadot-estimate.gif)
+![](../assets/polkadot/polkadot-estimate.gif)
 
 -----------------------------
 

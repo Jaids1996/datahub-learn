@@ -91,7 +91,7 @@ Once you have the code above saved:
 * Fill in the amount of **mutez** you want to send.
 * Click on **Submit Transfer**.
 
-![](../../../.gitbook/assets/pathways/tezos/tezos-transfer.gif)
+![](../assets/tezos/tezos-transfer.gif)
 
 -----------------------------
 

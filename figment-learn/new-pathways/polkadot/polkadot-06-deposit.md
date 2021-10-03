@@ -63,7 +63,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code is complete and the file has been saved, Next.js will rebuild the API route. Click the button to display the existential deposit amount.
 
-![](../../../.gitbook/assets/pathways/polkadot/polkadot-deposit.gif)
+![](../assets/polkadot/polkadot-deposit.gif)
 
 -----------------------------
 

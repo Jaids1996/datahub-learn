@@ -63,7 +63,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 When you have completed the code, click on **Restore Account**
 
-![](../../../.gitbook/assets/pathways/polkadot/polkadot-restore.gif)
+![](../assets/polkadot/polkadot-restore.gif)
 
 -----------------------------
 

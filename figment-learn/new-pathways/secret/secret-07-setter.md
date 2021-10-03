@@ -74,7 +74,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once you have the code above saved, click the button and watch the magic happen:
 
-![](../../../.gitbook/assets/pathways/secret/secret-setter.gif)
+![](../assets/secret/secret-setter.gif)
 
 ----------------------------------
 

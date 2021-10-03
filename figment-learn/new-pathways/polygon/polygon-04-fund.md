@@ -85,7 +85,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 When you have completed the code, the **Check Balance** button will function. Click it to view the balance of the connected account:
 
-![](../../../.gitbook/assets/pathways/polygon/polygon-balance.gif)
+![](../assets/polygon/polygon-balance.gif)
 
 -------------------------------------
 

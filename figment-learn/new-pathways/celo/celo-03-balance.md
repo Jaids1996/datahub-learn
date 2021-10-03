@@ -89,7 +89,7 @@ The amount returned by these calls is denominated in **aCELO** and **acUSD**, wh
 
 Once the code is complete and the file is saved, Next.js will rebuild the API route. Click on **Check Balance** and you should see the balance displayed on the page:
 
-![](../../../.gitbook/assets/pathways/celo/celo-balance.gif)
+![](../assets/celo/celo-balance.gif)
 
 -----------------------------
 

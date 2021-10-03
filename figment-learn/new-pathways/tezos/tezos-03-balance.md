@@ -70,7 +70,7 @@ The amount returned by `getBalance` is denominated in **μꜩ** (mutez), so to c
 
 Once the code is complete and the file is saved, Next.js will rebuild the API route. Click on **Check Balance** and you should see the balance displayed on the page:
 
-![](../../../.gitbook/assets/pathways/tezos/tezos-balance.gif)
+![](../assets/tezos/tezos-balance.gif)
 
 -----------------------------
 

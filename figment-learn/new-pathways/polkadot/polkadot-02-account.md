@@ -104,7 +104,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code is complete and the file is saved, Next.js will rebuild the API route. Now click on **Generate a Keypair** and you should see:
 
-![](../../../.gitbook/assets/pathways/polkadot/polkadot-account.gif)
+![](../assets/polkadot/polkadot-account.gif)
 
 -----------------------------
 

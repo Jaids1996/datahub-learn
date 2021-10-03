@@ -89,7 +89,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once you have the code above saved, click on **Get Greeting** and watch the magic happen: 
 
-![](../../../.gitbook/assets/pathways/solana/solana-getter.gif)
+![](../assets/solana/solana-getter.gif)
 
 ----------------------------------
 

@@ -99,7 +99,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once you have the code above saved, click the button and watch the magic happen:
 
-![](../../../.gitbook/assets/pathways/tezos/tezos-setter.gif)
+![](../assets/tezos/tezos-setter.gif)
 
 -----------------------------
 

@@ -74,7 +74,7 @@ Once the code is complete and the file is saved, Next.js will rebuild the API ro
 You should see:
 
 
-![](../../../.gitbook/assets/pathways/near/near-account.gif)
+![](../assets/near/near-account.gif)
 
 -----------------------------
 

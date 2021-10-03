@@ -2,7 +2,7 @@ In the following tutorials, we're going to interact with the Solana blockchain (
 
 You can choose which cluster to connect to using the dropdown located in the top right of the UI, as shown below. Normally, you will want to connect to Datahub. If you are using a Test Validator, select the Localhost option.
 
-![](../../../.gitbook/assets/pathways/solana/solana-dropdown.png)
+![](../assets/solana/solana-dropdown.png)
 
 ----------------------------------
 
@@ -64,7 +64,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code above is saved, refresh the page to see it update & display the current version of the Solana software!
 
-![](../../../.gitbook/assets/pathways/solana/solana-connect.gif)
+![](../assets/solana/solana-connect.gif)
 
 -----------------------------
 

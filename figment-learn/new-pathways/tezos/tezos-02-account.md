@@ -80,7 +80,7 @@ Once the code is complete and the file has been saved:
 * Click on **Feed the storage**
 * Click on **Activate account**
 
-![](../../../.gitbook/assets/pathways/tezos/tezos-account.gif)
+![](../assets/tezos/tezos-account.gif)
 
 -----------------------------
 

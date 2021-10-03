@@ -126,7 +126,7 @@ Once the code is complete and the file is saved, Next.js will rebuild the API ro
 - Fill in the amount of **nAVAX** you want to send.
 - Click on **Submit Transfer**.
 
-![](../../../.gitbook/assets/pathways/avalanche/avalanche-transfer.gif)
+![](../assets/avalanche/avalanche-transfer.gif)
 
 ---
 

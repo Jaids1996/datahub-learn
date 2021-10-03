@@ -64,7 +64,7 @@ The amount returned by `getAccountBalance` is denominated in **yoctoNEAR**, so t
 
 Once the code is complete and the file is saved, Next.js will rebuild the API route. Click on **Check Balance** and you should see the balance displayed on the page:
 
-![](../../../.gitbook/assets/pathways/near/near-balance.gif)
+![](../assets/near/near-balance.gif)
 
 -----------------------------
 

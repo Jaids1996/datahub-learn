@@ -2,7 +2,7 @@
 
 The value for `DATAHUB_POLKADOT_API_KEY` can be found on the [**DataHub Services Dashboard**](https://datahub.figment.io/services/secret). Click on the **Polkadot** icon in the list of available protocols and then copy your key as shown below. You can now paste your personal API key into `.env.local`. This will authenticate you and enable you to make JSON-RPC requests to Secret via DataHub.
 
-![](../../../.gitbook/assets/pathways/polkadot/polkadot-setup.gif)
+![](../assets/polkadot/polkadot-setup.gif)
 
 {% hint style="info" %}
 [**Join us on Discord**](https://figment.io/devchat), if you encounter any issues with the tutorial or have any questions!**

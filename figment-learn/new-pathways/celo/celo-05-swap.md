@@ -79,7 +79,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once you have the code above saved, click on **Swap 1 cUSD**:
 
-![](../../../.gitbook/assets/pathways/celo/celo-swap.gif)
+![](../assets/celo/celo-swap.gif)
 
 
 {% hint style="info" %}

@@ -71,7 +71,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 * Enter the address you just funded
 * Click on **Check Balance**
 
-![](../../../.gitbook/assets/pathways/solana/solana-balance.gif)
+![](../assets/solana/solana-balance.gif)
 
 ----------------------------------
 

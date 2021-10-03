@@ -72,7 +72,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once you have the code above saved, click on **Send A Greeting** and watch the magic happen:
 
-![](../../../.gitbook/assets/pathways/solana/solana-setter.gif)
+![](../assets/solana/solana-setter.gif)
 
 ----------------------------------
 

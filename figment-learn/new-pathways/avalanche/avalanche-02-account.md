@@ -98,7 +98,7 @@ Do not forget to fund the newly created wallet using the [Avalanche testnet fauc
 
 Once the code is complete and the file is saved, Next.js will rebuild the API route. Now click on **Generate a Keypair** and you should see:
 
-![](../../../.gitbook/assets/pathways/avalanche/avalanche-account.gif)
+![](../assets/avalanche/avalanche-account.gif)
 
 ---
 

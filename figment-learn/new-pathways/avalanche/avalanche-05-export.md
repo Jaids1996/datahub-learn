@@ -120,7 +120,7 @@ Still not sure how to do this? No problem! The solution is below so you don't ge
 
 Once the code is complete and the file is saved, Next.js will rebuild the API route. Click on **Export 0.05 AVAX** and you should see the balance displayed on the page:
 
-![](../../../.gitbook/assets/pathways/avalanche/avalanche-export.gif)
+![](../assets/avalanche/avalanche-export.gif)
 
 ---
 
