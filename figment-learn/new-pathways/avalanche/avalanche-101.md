@@ -1,30 +1,3 @@
-# Set your Datahub API key
-
-<<<<<<< Updated upstream
-Create an `.env.local` file at the root of the directory by copying the existing `.env.example` file with the terminal command
-`cp .env.example .env.local`.
-
-=======
->>>>>>> Stashed changes
-The value for `DATAHUB_AVALANCHE_API_KEY` can be found on the [**DataHub Services Dashboard**](https://datahub.figment.io/services/secret). Click on the **Avalanche** icon in the list of available protocols and then copy your key as shown below. You can now paste your personal API key into `.env.local`. This will authenticate you and enable you to make JSON-RPC requests to Secret via DataHub.
-
-![](../../../.gitbook/assets/pathways/avalanche/avalanche-setup.gif)
-
-{% hint style="info" %}
-[**Join us on Discord**](https://figment.io/devchat), if you encounter any issues with the tutorial or have any questions!**
-{% endhint %}
-
----------------------------
-
-# Next
-
-<<<<<<< Updated upstream
-You can now move ahead to the instructions of the first tutorial step by clicking on the "Next: Connect to Avalanche" button below on the right.
-
-You may also continue reading for a brief introduction to Avalanche before continuing with the Pathway, if you would like to know more. 
-
----------------------------
-
 # What is Avalanche?
 
 Avalanche is a layer one protocol by Ava Labs that offers high-throughput, fast finality, and unprecedented decentralization. Developers are able to launch their own public or private blockchains (called subnets), create and trade digital assets, and build scalable smart contracts and decentralized applications.
@@ -113,9 +86,3 @@ The C-Chain is fully compatible with the EVM and provides support for any Ethere
 ## Role of the AVAX token
 
 AVAX is the Avalanche network's native token. All transactions on the Avalanche network require a fee denominated in AVAX.
-
-=======
-If you want to know more about Avalanche, [check out this brief introduction](./avalanche-101.md).
-
-Otherwise, you can now move ahead to the instructions of the first tutorial step by clicking on the "**Next: Connect to Avalanche**" button below on the right.
->>>>>>> Stashed changes
